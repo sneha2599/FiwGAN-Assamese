@@ -10,6 +10,6 @@ authors:
   given-names: "Neeraj Kumar"
 title: "FiwGAN-Assamese"
 version: 1.0.0
-doi: 10.5281/zenodo.1234
+doi: https://zenodo.org/doi/10.5281/zenodo.12798918
 date-released: 2024-07-23
 url: "https://github.com/sneha2599/FiwGAN-Assamese"
