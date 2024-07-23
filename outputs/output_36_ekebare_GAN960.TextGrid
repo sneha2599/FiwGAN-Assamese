@@ -1,0 +1,46 @@
+﻿File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 0.4889375 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "phoneme" 
+        xmin = 0 
+        xmax = 0.4889375 
+        intervals: size = 8 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.08268186365198206 
+            text = "ɛ" 
+        intervals [2]:
+            xmin = 0.08268186365198206 
+            xmax = 0.14538286345305268 
+            text = "k" 
+        intervals [3]:
+            xmin = 0.14538286345305268 
+            xmax = 0.19847276109483508 
+            text = "ɛ" 
+        intervals [4]:
+            xmin = 0.19847276109483508 
+            xmax = 0.2730732207121673 
+            text = "b" 
+        intervals [5]:
+            xmin = 0.2730732207121673 
+            xmax = 0.32158640304000297 
+            text = "ɑ" 
+        intervals [6]:
+            xmin = 0.32158640304000297 
+            xmax = 0.36552287005389184 
+            text = "ɹ" 
+        intervals [7]:
+            xmin = 0.36552287005389184 
+            xmax = 0.45156511795609094 
+            text = "ɛ" 
+        intervals [8]:
+            xmin = 0.45156511795609094 
+            xmax = 0.4889375 
+            text = "" 
