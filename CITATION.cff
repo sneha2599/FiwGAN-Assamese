@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Ray Barman"
+  given-names: "Sneha"
+  orcid: "https://orcid.org/0009-0002-0073-1113"
+- family-names: "Mahanta"
+  given-names: "Shakuntala"
+- family-names: "Sharma"
+  given-names: "Neeraj Kumar"
+title: "FiwGAN-Assamese"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2024-07-23
+url: "https://github.com/sneha2599/FiwGAN-Assamese"
